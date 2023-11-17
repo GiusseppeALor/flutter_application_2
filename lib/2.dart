@@ -23,7 +23,7 @@ class login1 extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  "El Mañanero",
+                  "El MañaneroGit",
                   style: TextStyle(
                     fontSize: 36,
                     fontWeight: FontWeight.bold,
